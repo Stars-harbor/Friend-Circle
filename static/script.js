@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const batchSize = 20; // 每次加载的卡片数量
 
     function loadMoreArticles() {
-        fetch('https://fc.liushen.fun/all.json')
+        fetch('/all.json')
             .then(response => response.json())
             .then(data => {
                 allArticles = data.article_data;
