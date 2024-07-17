@@ -3,8 +3,8 @@
     "friends_num": 62,
     "active_num": 42,
     "error_num": 20,
-    "article_num": 166,
-    "last_updated_time": "2024-07-17 20:20:14"
+    "article_num": 161,
+    "last_updated_time": "2024-07-18 02:13:35"
   },
   "article_data": [
     {
@@ -330,13 +330,6 @@
       "avatar": "https://aiccrop.com/api/head"
     },
     {
-      "title": "Color Protein Model by Sequence Conservation with ConSurf",
-      "created": "2024-06-20 11:35",
-      "link": "https://xxu.do/posts/structure/Color-the-model-by-sequence-conservation-with-ConSurf",
-      "author": "Jayden",
-      "avatar": "https://github.com/Jaaayden.png"
-    },
-    {
       "title": "【Cos】山吹兔美 – 星之少女与六华的姐妹",
       "created": "2024-06-19 18:39",
       "link": "https://aiccrop.com/article/2024/yamabuki-usami-cos-ensemble/",
@@ -428,13 +421,6 @@
       "avatar": "https://bu.dusays.com/2024/06/12/6669abc539646.jpg"
     },
     {
-      "title": "Build Models for cryo-EM Maps with ModelAngelo",
-      "created": "2024-06-09 04:38",
-      "link": "https://xxu.do/posts/structure/Build-Models-for-cryo-EM-Maps-with-ModelAngelo",
-      "author": "Jayden",
-      "avatar": "https://github.com/Jaaayden.png"
-    },
-    {
       "title": "日记-六月八日",
       "created": "2024-06-08 08:28",
       "link": "https://zxz.ee/236.html",
@@ -517,27 +503,6 @@
       "link": "http://blog.awaae001.top/posts/56520.html",
       "author": "呓语梦轩",
       "avatar": "https://blog.awaae001.top/ico.jpg"
-    },
-    {
-      "title": "XDS Installation Issue on arm64 Mac",
-      "created": "2024-05-25 12:31",
-      "link": "https://xxu.do/posts/structure/XDS-Installation-Issue-on-arm64-Mac",
-      "author": "Jayden",
-      "avatar": "https://github.com/Jaaayden.png"
-    },
-    {
-      "title": "Deploy X-Ray Data Process Software on Linux",
-      "created": "2024-05-25 09:45",
-      "link": "https://xxu.do/posts/structure/Deploy-X-Ray-Data-Process-Software-on-Linux",
-      "author": "Jayden",
-      "avatar": "https://github.com/Jaaayden.png"
-    },
-    {
-      "title": "星巴克臻选 上海烘焙工坊",
-      "created": "2024-05-25 06:59",
-      "link": "https://xxu.do/notes/129",
-      "author": "Jayden",
-      "avatar": "https://github.com/Jaaayden.png"
     },
     {
       "title": "键盘退烧之路",
