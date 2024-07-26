@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 62,
-    "active_num": 41,
-    "error_num": 21,
-    "article_num": 157,
-    "last_updated_time": "2024-07-26 14:15:17"
+    "active_num": 42,
+    "error_num": 20,
+    "article_num": 162,
+    "last_updated_time": "2024-07-26 20:18:56"
   },
   "article_data": [
     {
@@ -470,6 +470,13 @@
       "avatar": "https://s3.qjqq.cn/47/660a7ece07609.webp!color"
     },
     {
+      "title": "Umami 国内鸡+MySql5.7 安装踩坑记录",
+      "created": "2024-06-13 11:25",
+      "link": "https://blog.tomys.top/2024-06/umami-install/",
+      "author": "TomyJan",
+      "avatar": "https://public-cdn.tomys.top/head.png"
+    },
+    {
       "title": "信创银河麒麟高级服务器操作系统 V10 安装无头浏览器 Chromium",
       "created": "2024-06-12 10:08",
       "link": "https://www.imaegoo.com/2024/kylin-chromium/",
@@ -608,6 +615,13 @@
       "link": "https://www.fcln.net/archives/83/",
       "author": "浮沉流年",
       "avatar": "https://www.ifonce.com/wp-content/uploads/2024/02/20240201200905925-IMG_4296.jpeg"
+    },
+    {
+      "title": "付邮送 giffgaff 以及 关于giffgaff 的一些记录",
+      "created": "2024-05-07 08:44",
+      "link": "https://blog.tomys.top/2024-05/giffgaff/",
+      "author": "TomyJan",
+      "avatar": "https://public-cdn.tomys.top/head.png"
     },
     {
       "title": "饿殍：明末千里行-岁大饥，人相食",
@@ -918,6 +932,13 @@
       "avatar": "https://www.dhkk.cn/logo.png"
     },
     {
+      "title": "第一届 TomyWeb 口令红包大赛(误",
+      "created": "2024-02-11 16:27",
+      "link": "https://blog.tomys.top/2024-02/redpackchallenge/",
+      "author": "TomyJan",
+      "avatar": "https://public-cdn.tomys.top/head.png"
+    },
+    {
       "title": "工具推荐｜Flutter-PicGo：手机版PicGo",
       "created": "2024-02-10 18:48",
       "link": "https://wanglin.blog/index.php/archives/251/",
@@ -937,6 +958,13 @@
       "link": "https://champhoon.xyz/log/tibet/",
       "author": "澄沨的漫游茶记",
       "avatar": "https://api.champhoon.xyz/favicon/favicon-main.png"
+    },
+    {
+      "title": "HomeAssistant 安装入门 折腾&踩坑记录",
+      "created": "2024-01-19 06:21",
+      "link": "https://blog.tomys.top/2024-01/homeassistant/",
+      "author": "TomyJan",
+      "avatar": "https://public-cdn.tomys.top/head.png"
     },
     {
       "title": "568flat-ventoy-theme",
@@ -965,6 +993,13 @@
       "link": "https://www.dhkk.cn/archives/1131",
       "author": "大海看看",
       "avatar": "https://www.dhkk.cn/logo.png"
+    },
+    {
+      "title": "战双私服 升格网络 AscNet 教程",
+      "created": "2023-12-28 15:16",
+      "link": "https://blog.tomys.top/2023-12/pgr-ascnet_server/",
+      "author": "TomyJan",
+      "avatar": "https://public-cdn.tomys.top/head.png"
     },
     {
       "title": "Obsidian 使用 Railway 的免费同步方案或自建部署",
