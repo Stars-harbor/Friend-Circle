@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 62,
-    "active_num": 42,
-    "error_num": 20,
-    "article_num": 167,
-    "last_updated_time": "2024-07-26 08:46:21"
+    "active_num": 41,
+    "error_num": 21,
+    "article_num": 157,
+    "last_updated_time": "2024-07-26 14:15:17"
   },
   "article_data": [
     {
@@ -260,13 +260,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "荒野大镖客2：我不常提起他，但我经常想念他",
-      "created": "2024-07-08 22:56",
-      "link": "https://liuyude.com/archives/i-dont-talk-about-him-much-but-i-think-about-him-lot.html",
-      "author": "慧行说",
-      "avatar": "https://liuyude.com/logo"
-    },
-    {
       "title": "琐议戏曲艺术流变中的舞蹈遗存状态",
       "created": "2024-07-08 14:17",
       "link": "https://iicats.com/1322/",
@@ -477,13 +470,6 @@
       "avatar": "https://s3.qjqq.cn/47/660a7ece07609.webp!color"
     },
     {
-      "title": "Umami 国内鸡+MySql5.7 安装踩坑记录",
-      "created": "2024-06-13 11:25",
-      "link": "https://blog.tomys.top/2024-06/umami-install/",
-      "author": "TomyJan",
-      "avatar": "https://public-cdn.tomys.top/head.png"
-    },
-    {
       "title": "信创银河麒麟高级服务器操作系统 V10 安装无头浏览器 Chromium",
       "created": "2024-06-12 10:08",
       "link": "https://www.imaegoo.com/2024/kylin-chromium/",
@@ -596,13 +582,6 @@
       "avatar": "https://github.com/Jaaayden.png"
     },
     {
-      "title": "键盘退烧之路",
-      "created": "2024-05-15 00:04",
-      "link": "https://liuyude.com/archives/keyboard-fever-down-road.html",
-      "author": "慧行说",
-      "avatar": "https://liuyude.com/logo"
-    },
-    {
       "title": "解决火绒 6.0 造成的 Node.js fetch 方法 unable to verify the first certificate 报错",
       "created": "2024-05-13 09:00",
       "link": "https://www.imaegoo.com/2024/nodejs-fetch-cert-error/",
@@ -629,13 +608,6 @@
       "link": "https://www.fcln.net/archives/83/",
       "author": "浮沉流年",
       "avatar": "https://www.ifonce.com/wp-content/uploads/2024/02/20240201200905925-IMG_4296.jpeg"
-    },
-    {
-      "title": "付邮送 giffgaff 以及 关于giffgaff 的一些记录",
-      "created": "2024-05-07 08:44",
-      "link": "https://blog.tomys.top/2024-05/giffgaff/",
-      "author": "TomyJan",
-      "avatar": "https://public-cdn.tomys.top/head.png"
     },
     {
       "title": "饿殍：明末千里行-岁大饥，人相食",
@@ -678,13 +650,6 @@
       "link": "https://www.meilyn.top/skypoint-0402/",
       "author": "又见梅林",
       "avatar": "https://cdn.meilyn.top/logo/logo-d.png"
-    },
-    {
-      "title": "春日轨迹：债、病与歌声中的四月",
-      "created": "2024-04-29 11:29",
-      "link": "https://liuyude.com/archives/tracks-april-in-debt-sickness-song.html",
-      "author": "慧行说",
-      "avatar": "https://liuyude.com/logo"
     },
     {
       "title": "MLY数字出版 · 2024-03",
@@ -855,13 +820,6 @@
       "avatar": "https://www.hsuyeung.com/img/avatar.jpg"
     },
     {
-      "title": "简单三步，使用PolitePol将任意网站制作成RSS订阅源",
-      "created": "2024-03-20 15:43",
-      "link": "https://liuyude.com/archives/use-politepol-to-turn-any-website-into-an-rss.html",
-      "author": "慧行说",
-      "avatar": "https://liuyude.com/logo"
-    },
-    {
       "title": "我要浊酒一杯 高歌自由的伟岸",
       "created": "2024-03-17 22:43",
       "link": "https://www.fcln.net/archives/67/",
@@ -874,13 +832,6 @@
       "link": "https://www.hsuyeung.com/article/zhou-chuan-xiong-chengdu-concert",
       "author": "Hsu Yeung 的博客",
       "avatar": "https://www.hsuyeung.com/img/avatar.jpg"
-    },
-    {
-      "title": "typora+简单图床+uPic配置指南",
-      "created": "2024-03-14 16:14",
-      "link": "https://liuyude.com/archives/typora-simple-upic-configuration-guide.html",
-      "author": "慧行说",
-      "avatar": "https://liuyude.com/logo"
     },
     {
       "title": "算一算博客运行一年的花费",
@@ -967,13 +918,6 @@
       "avatar": "https://www.dhkk.cn/logo.png"
     },
     {
-      "title": "第一届 TomyWeb 口令红包大赛(误",
-      "created": "2024-02-11 16:27",
-      "link": "https://blog.tomys.top/2024-02/redpackchallenge/",
-      "author": "TomyJan",
-      "avatar": "https://public-cdn.tomys.top/head.png"
-    },
-    {
       "title": "工具推荐｜Flutter-PicGo：手机版PicGo",
       "created": "2024-02-10 18:48",
       "link": "https://wanglin.blog/index.php/archives/251/",
@@ -993,13 +937,6 @@
       "link": "https://champhoon.xyz/log/tibet/",
       "author": "澄沨的漫游茶记",
       "avatar": "https://api.champhoon.xyz/favicon/favicon-main.png"
-    },
-    {
-      "title": "HomeAssistant 安装入门 折腾&踩坑记录",
-      "created": "2024-01-19 06:21",
-      "link": "https://blog.tomys.top/2024-01/homeassistant/",
-      "author": "TomyJan",
-      "avatar": "https://public-cdn.tomys.top/head.png"
     },
     {
       "title": "568flat-ventoy-theme",
@@ -1028,13 +965,6 @@
       "link": "https://www.dhkk.cn/archives/1131",
       "author": "大海看看",
       "avatar": "https://www.dhkk.cn/logo.png"
-    },
-    {
-      "title": "战双私服 升格网络 AscNet 教程",
-      "created": "2023-12-28 15:16",
-      "link": "https://blog.tomys.top/2023-12/pgr-ascnet_server/",
-      "author": "TomyJan",
-      "avatar": "https://public-cdn.tomys.top/head.png"
     },
     {
       "title": "Obsidian 使用 Railway 的免费同步方案或自建部署",
