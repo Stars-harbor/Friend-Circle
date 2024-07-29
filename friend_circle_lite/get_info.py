@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 from dateutil import parser
 import requests
 import feedparser
@@ -9,7 +9,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
 }
 
-timeout = (5, 10) # 连接超时和读取超时，防止requests接受时间过长
+timeout = (10, 15) # 连接超时和读取超时，防止requests接受时间过长
 
 def format_published_time(time_str):
     """
@@ -17,7 +17,7 @@ def format_published_time(time_str):
     """
     try:
         # 尝试自动解析
-        parsed_time = parser.parse(time_str)
+        parsed_time = parser.parse(time_str) + timedelta(hours=8)
         return parsed_time.strftime('%Y-%m-%d %H:%M')
     except (ValueError, parser.ParserError):
         pass
@@ -33,7 +33,7 @@ def format_published_time(time_str):
 
     for fmt in time_formats:
         try:
-            parsed_time = datetime.strptime(time_str, fmt)
+            parsed_time = datetime.strptime(time_str, fmt) + timedelta(hours=8)
             return parsed_time.strftime('%Y-%m-%d %H:%M')
         except ValueError:
             continue
@@ -60,8 +60,12 @@ def check_feed(blog_url, session):
     """
     
     atom_url = blog_url.rstrip('/') + '/atom.xml'
-    rss_url = blog_url.rstrip('/') + '/rss2.xml'
+    rss_url = blog_url.rstrip('/') + '/rss.xml'  # 2024-07-26 添加 /rss.xml内容的支持
+    rss2_url = blog_url.rstrip('/') + '/rss2.xml'
     feed_url = blog_url.rstrip('/') + '/feed'
+    feed2_url = blog_url.rstrip('/') + '/feed.xml'  # 2024-07-26 添加 /feed.xml内容的支持
+    feed3_url = blog_url.rstrip('/') + '/feed/'  # 2024-07-26 添加 /feed/内容的支持
+    index_url = blog_url.rstrip('/') + '/index.xml' # 2024-07-25 添加 /index.xml内容的支持
     
     try:
         atom_response = session.get(atom_url, headers=headers, timeout=timeout)
@@ -73,7 +77,14 @@ def check_feed(blog_url, session):
     try:
         rss_response = session.get(rss_url, headers=headers, timeout=timeout)
         if rss_response.status_code == 200:
-            return ['rss2', rss_url]
+            return ['rss', rss_url]
+    except requests.RequestException:
+        pass
+    
+    try:
+        rss_response = session.get(rss2_url, headers=headers, timeout=timeout)
+        if rss_response.status_code == 200:
+            return ['rss2', rss2_url]
     except requests.RequestException:
         pass
 
@@ -81,6 +92,27 @@ def check_feed(blog_url, session):
         feed_response = session.get(feed_url, headers=headers, timeout=timeout)
         if feed_response.status_code == 200:
             return ['feed', feed_url]
+    except requests.RequestException:
+        pass
+    
+    try:
+        feed_response = session.get(feed2_url, headers=headers, timeout=timeout)
+        if feed_response.status_code == 200:
+            return ['feed2', feed2_url]
+    except requests.RequestException:
+        pass
+    
+    try:
+        feed_response = session.get(index_url, headers=headers, timeout=timeout)
+        if feed_response.status_code == 200:
+            return ['index', index_url]
+    except requests.RequestException:
+        pass
+    
+    try:
+        feed_response = session.get(feed3_url, headers=headers, timeout=timeout)
+        if feed_response.status_code == 200:
+            return ['feed3', feed3_url]
     except requests.RequestException:
         pass
     
@@ -152,6 +184,7 @@ def process_friend(friend, session, count):
     """
     name, blog_url, avatar = friend
     feed_type, feed_url = check_feed(blog_url, session)
+    print(f"========“{name}”的博客“{blog_url}”的feed类型为“{feed_type}”========")
 
     if feed_type != 'none':
         feed_info = parse_feed(feed_url, session, count)
@@ -207,6 +240,7 @@ def fetch_and_process_data(json_url, count=5):
     error_friends = 0
     total_articles = 0
     article_data = []
+    error_friends_info = []
 
     with ThreadPoolExecutor(max_workers=10) as executor:
         future_to_friend = {
@@ -224,9 +258,11 @@ def fetch_and_process_data(json_url, count=5):
                     total_articles += len(result['articles'])
                 else:
                     error_friends += 1
+                    error_friends_info.append(friend)
             except Exception as e:
                 print(f"处理 {friend} 时发生错误: {e}")
                 error_friends += 1
+                error_friends_info.append(friend)
 
     result = {
         'statistical_data': {
@@ -242,7 +278,7 @@ def fetch_and_process_data(json_url, count=5):
     print("数据处理完成")
     print("总共有 %d 位朋友，其中 %d 位博客可访问，%d 位博客无法访问" % (total_friends, active_friends, error_friends))
 
-    return result
+    return result, error_friends_info
 
 def sort_articles_by_time(data):
     """
