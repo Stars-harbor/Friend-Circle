@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 65,
-    "active_num": 47,
-    "error_num": 18,
-    "article_num": 192,
-    "last_updated_time": "2024-08-04 08:53:15"
+    "active_num": 46,
+    "error_num": 19,
+    "article_num": 189,
+    "last_updated_time": "2024-08-04 14:15:08"
   },
   "article_data": [
     {
@@ -479,7 +479,7 @@
     {
       "title": "脱单了～",
       "created": "2024-07-02 02:43",
-      "link": "https://aiccrop.com/article/2024/%e8%84%b1%e5%8d%95%e4%ba%86%ef%bd%9e/",
+      "link": "https://aiccrop.com/post/2024/%e8%84%b1%e5%8d%95%e4%ba%86%ef%bd%9e/",
       "author": "CircleCrop Blog",
       "avatar": "https://aiccrop.com/api/head"
     },
@@ -542,7 +542,7 @@
     {
       "title": "【音游痴】通宵出勤后，读谱=省电模式",
       "created": "2024-06-21 04:12",
-      "link": "https://aiccrop.com/article/2024/rhythm-game-enthusiast-all-night-music-reading-like-energy-saving-mode/",
+      "link": "https://aiccrop.com/post/2024/rhythm-game-enthusiast-all-night-music-reading-like-energy-saving-mode/",
       "author": "CircleCrop Blog",
       "avatar": "https://aiccrop.com/api/head"
     },
@@ -645,13 +645,6 @@
       "avatar": "https://zxz.ee/touxiang.png"
     },
     {
-      "title": "Argon-Theme语法",
-      "created": "2024-06-08 15:35",
-      "link": "https://blog.karltan.com/environment/argon-theme-syntax/",
-      "author": "Karl的博客",
-      "avatar": "https://img.karltan.com/logo.png"
-    },
-    {
       "title": "hexo + github-action持续集成",
       "created": "2024-06-07 17:18",
       "link": "http://blog.awaae001.top/posts/26785.html",
@@ -678,20 +671,6 @@
       "link": "http://blog.awaae001.top/posts/52004.html",
       "author": "呓语梦轩",
       "avatar": "https://blog.awaae001.top/ico.jpg"
-    },
-    {
-      "title": "测试测试123",
-      "created": "2024-06-01 16:22",
-      "link": "https://blog.karltan.com/uncategorized/testtest123/",
-      "author": "Karl的博客",
-      "avatar": "https://img.karltan.com/logo.png"
-    },
-    {
-      "title": "世界，您好！",
-      "created": "2024-06-01 15:45",
-      "link": "https://blog.karltan.com/uncategorized/hello-world/",
-      "author": "Karl的博客",
-      "avatar": "https://img.karltan.com/logo.png"
     },
     {
       "title": "资中筠：休将明月照沟渠，莫与脑残争高低",
@@ -962,14 +941,14 @@
     {
       "title": "个人形象表情包",
       "created": "2024-03-25 09:56",
-      "link": "https://aiccrop.com/article/2024/cc-emoji-full/",
+      "link": "https://aiccrop.com/post/2024/cc-emoji-full/",
       "author": "CircleCrop Blog",
       "avatar": "https://aiccrop.com/api/head"
     },
     {
       "title": "新头像・焕新个人形象",
       "created": "2024-03-25 05:10",
-      "link": "https://aiccrop.com/article/2024/new-avatar/",
+      "link": "https://aiccrop.com/post/2024/new-avatar/",
       "author": "CircleCrop Blog",
       "avatar": "https://aiccrop.com/api/head"
     },
@@ -1060,7 +1039,7 @@
     {
       "title": "个人工作照",
       "created": "2024-02-20 07:19",
-      "link": "https://aiccrop.com/article/2024/personal-working-photograph/",
+      "link": "https://aiccrop.com/post/2024/personal-working-photograph/",
       "author": "CircleCrop Blog",
       "avatar": "https://aiccrop.com/api/head"
     },
