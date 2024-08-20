@@ -3,10 +3,17 @@
     "friends_num": 65,
     "active_num": 44,
     "error_num": 21,
-    "article_num": 185,
-    "last_updated_time": "2024-08-20 08:48:44"
+    "article_num": 180,
+    "last_updated_time": "2024-08-20 14:15:47"
   },
   "article_data": [
+    {
+      "title": "macOS 自动重新打开意外退出的应用",
+      "created": "2024-08-20 11:00",
+      "link": "https://www.imaegoo.com/2024/macos-auto-restart-crashed-app/",
+      "author": "iMaeGoo’s Blog",
+      "avatar": "https://www.imaegoo.com/images/avatar.jpg"
+    },
     {
       "title": "坏了，我染上obsidian了",
       "created": "2024-08-20 06:46",
@@ -771,13 +778,6 @@
       "avatar": "https://blog.yuanpei.me/imgs/avatar.jpg"
     },
     {
-      "title": "解决火绒 6.0 造成的 Node.js fetch 方法 unable to verify the first certificate 报错",
-      "created": "2024-05-13 17:00",
-      "link": "https://www.imaegoo.com/2024/nodejs-fetch-cert-error/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://www.imaegoo.com/images/avatar.jpg"
-    },
-    {
       "title": "《龙腾四海》插画的两个应用",
       "created": "2024-05-12 22:01",
       "link": "https://www.coollee.cn/archives/151/",
@@ -1210,41 +1210,6 @@
       "link": "https://akilar.top/posts/eee5afe4/",
       "author": "Akilarの糖果屋",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-    },
-    {
-      "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
-      "created": "2023-08-27 19:22",
-      "link": "https://blog.anheyu.com/posts/340b.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
-    },
-    {
-      "title": "什么是CDN？它解决了什么难题？国内CDN加Vercel，无服务器使用办法",
-      "created": "2023-08-26 19:24",
-      "link": "https://blog.anheyu.com/posts/136a.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
-    },
-    {
-      "title": "腾讯出品免费logo制作神器AI Logo,腾讯这次真的良心了",
-      "created": "2023-08-19 18:42",
-      "link": "https://blog.anheyu.com/posts/8105.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
-    },
-    {
-      "title": "当AI加上PS后让我变的极为振奋(附mac安装ps beta25.0)教程",
-      "created": "2023-08-18 19:24",
-      "link": "https://blog.anheyu.com/posts/4eb4.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
-    },
-    {
-      "title": "CNAME解析至cf：分流解析cloudflare处理国外请求",
-      "created": "2023-07-23 17:55",
-      "link": "https://blog.anheyu.com/posts/40fd.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
       "title": "🍂崩坏：星穹铁道抽卡链接获取教程",
