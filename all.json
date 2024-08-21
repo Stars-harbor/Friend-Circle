@@ -4,9 +4,16 @@
     "active_num": 44,
     "error_num": 21,
     "article_num": 185,
-    "last_updated_time": "2024-08-21 14:15:46"
+    "last_updated_time": "2024-08-21 20:20:22"
   },
   "article_data": [
+    {
+      "title": "Nginx index转发导致首页无法访问",
+      "created": "2024-08-21 14:42",
+      "link": "https://lozhu.happy365.day/2024/08/21/f19dd61c13b1/",
+      "author": "lozhu's blog",
+      "avatar": "https://lozhu.happy365.day/images/logo.png"
+    },
     {
       "title": "MongoDB 备份与恢复",
       "created": "2024-08-21 13:11",
@@ -522,13 +529,6 @@
       "title": "码乙己GitCode",
       "created": "2024-07-12 16:30",
       "link": "https://lozhu.happy365.day/2024/07/12/d2ab6908393c/",
-      "author": "lozhu's blog",
-      "avatar": "https://lozhu.happy365.day/images/logo.png"
-    },
-    {
-      "title": "Linux中的LVM存储管理",
-      "created": "2024-07-12 02:27",
-      "link": "https://lozhu.happy365.day/2024/07/12/1bf0cfdf8615/",
       "author": "lozhu's blog",
       "avatar": "https://lozhu.happy365.day/images/logo.png"
     },
