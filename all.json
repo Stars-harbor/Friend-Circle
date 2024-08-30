@@ -1,18 +1,32 @@
 {
   "statistical_data": {
     "friends_num": 67,
-    "active_num": 47,
-    "error_num": 20,
-    "article_num": 191,
-    "last_updated_time": "2024-08-30 08:52:01"
+    "active_num": 46,
+    "error_num": 21,
+    "article_num": 186,
+    "last_updated_time": "2024-08-30 14:16:39"
   },
   "article_data": [
+    {
+      "title": "感冒了怎么办？流鼻涕、鼻炎纸巾推荐：洁柔乳霜纸",
+      "created": "2024-08-30 11:46",
+      "link": "https://blog.zhheo.com/p/6ccd.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "君到苏州（一）：园林之境",
       "created": "2024-08-29 20:36",
       "link": "https://blog.marice.top/posts/s1k3.html",
       "author": "冰火之砺",
       "avatar": "https://bu.dusays.com/2023/11/29/6567122d3f4a6.jpg"
+    },
+    {
+      "title": "飞书妙记上手：采访会议语音转文本工具，免费的语音视频转srt字幕",
+      "created": "2024-08-29 19:10",
+      "link": "https://blog.zhheo.com/p/9315.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "智谱清言上手：文本生成强大，支持AI视频和AI画图",
@@ -85,6 +99,13 @@
       "avatar": "https://www.imaegoo.com/images/avatar.jpg"
     },
     {
+      "title": "黑神话悟空游玩体验",
+      "created": "2024-08-26 01:57",
+      "link": "https://imqi1.com/note/412",
+      "author": "ImQi1",
+      "avatar": "https://imqi1.com/avatar.webp"
+    },
+    {
       "title": "迷你主机折腾小记：光猫桥接 + DDNS 搭建公网 IPv6 服务器",
       "created": "2024-08-24 21:59",
       "link": "https://www.baiyuyu.com/5815.html",
@@ -94,7 +115,7 @@
     {
       "title": "Hello World",
       "created": "2024-08-24 18:29",
-      "link": "https://blog.everfu.cn/p/4a17b156.html",
+      "link": "https://blog.everfu.cn/p/4a17b156%E3%80%91.html",
       "author": "Efu",
       "avatar": "https://s3.qjqq.cn/47/660a7ece07609.webp!color"
     },
@@ -148,11 +169,11 @@
       "avatar": "https://cdn.dmxvx.cc/img/logo.png"
     },
     {
-      "title": "坏了，我染上obsidian了",
-      "created": "2024-08-20 06:46",
-      "link": "https://liuyude.com/archives/oh-no-im-hooked-on-obsidian.html",
-      "author": "慧行说",
-      "avatar": "https://liuyude.com/logo"
+      "title": "烟卡流行背后的隐忧",
+      "created": "2024-08-20 04:36",
+      "link": "https://imqi1.com/discuss/410",
+      "author": "ImQi1",
+      "avatar": "https://imqi1.com/avatar.webp"
     },
     {
       "title": "WordPress清理数据库冗余数据加速网站运行速度",
@@ -181,6 +202,13 @@
       "link": "https://www.dmxvx.cc/1039.html",
       "author": "Mello的赛博本子",
       "avatar": "https://cdn.dmxvx.cc/img/logo.png"
+    },
+    {
+      "title": "人变懒了，出门都是一种奢侈",
+      "created": "2024-08-16 22:21",
+      "link": "https://imqi1.com/note/401",
+      "author": "ImQi1",
+      "avatar": "https://imqi1.com/avatar.webp"
     },
     {
       "title": "Python 操作 MySQL",
@@ -230,6 +258,13 @@
       "link": "https://zxz.ee/242.html",
       "author": "小言u博客",
       "avatar": "https://zxz.ee/touxiang.png"
+    },
+    {
+      "title": "音乐推荐：起风了",
+      "created": "2024-08-13 07:50",
+      "link": "https://imqi1.com/note/394",
+      "author": "ImQi1",
+      "avatar": "https://imqi1.com/avatar.webp"
     },
     {
       "title": "服务器操作系统安全加固项",
@@ -288,13 +323,6 @@
       "avatar": "https://pic.imgdb.cn/item/63e38acc4757feff3372eb7e.webp"
     },
     {
-      "title": "在群晖NAS上安装Git Server",
-      "created": "2024-08-07 17:19",
-      "link": "https://liuyude.com/archives/install-git-server-on-synology-nas.html",
-      "author": "慧行说",
-      "avatar": "https://liuyude.com/logo"
-    },
-    {
       "title": "Nginx 可视化编辑工具 Nginx UI 安装和使用",
       "created": "2024-08-07 00:00",
       "link": "https://dusays.com/735/",
@@ -309,13 +337,6 @@
       "avatar": "https://cravatar.cn/avatar/ba76faef3cc8252bd0433b3515124389?s=512"
     },
     {
-      "title": "在Mac上使用CosyVoice教程：人声克隆，跨语种复刻、AITTS文本转语音",
-      "created": "2024-08-06 18:40",
-      "link": "https://blog.zhheo.com/p/e950.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "Redmi G Pro 游戏本 2024 使用体验",
       "created": "2024-08-06 16:26",
       "link": "https://zxz.ee/241.html",
@@ -328,20 +349,6 @@
       "link": "https://www.dmxvx.cc/977.html",
       "author": "Mello的赛博本子",
       "avatar": "https://cdn.dmxvx.cc/img/logo.png"
-    },
-    {
-      "title": "Git&Github学习笔记",
-      "created": "2024-08-06 00:14",
-      "link": "https://liuyude.com/archives/git-study-notes.html",
-      "author": "慧行说",
-      "avatar": "https://liuyude.com/logo"
-    },
-    {
-      "title": "Apple Watch 查找设备没有设备，提示：未找到可定位的Apple设备解决方法",
-      "created": "2024-08-05 14:16",
-      "link": "https://blog.zhheo.com/p/2398.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "灭螂行动！",
@@ -379,6 +386,13 @@
       "avatar": "https://blog.awaae001.top/ico.jpg"
     },
     {
+      "title": "站点开发手记（3）",
+      "created": "2024-08-04 08:25",
+      "link": "https://imqi1.com/note/384",
+      "author": "ImQi1",
+      "avatar": "https://imqi1.com/avatar.webp"
+    },
+    {
       "title": "【杂谈】接入谷歌广告后一个月赚了多少钱",
       "created": "2024-08-04 03:31",
       "link": "https://www.dmxvx.cc/976.html",
@@ -412,13 +426,6 @@
       "link": "http://blog.awaae001.top/posts/38498.html",
       "author": "呓语梦轩",
       "avatar": "https://blog.awaae001.top/ico.jpg"
-    },
-    {
-      "title": "reeder5如何批量删除iCloud中的Feeds订阅？",
-      "created": "2024-07-30 00:56",
-      "link": "https://liuyude.com/archives/reeder5-how-to-batch-delete-feeds-subscriptions-in-icloud.html",
-      "author": "慧行说",
-      "avatar": "https://liuyude.com/logo"
     },
     {
       "title": "弃用Win11系统",
@@ -573,13 +580,6 @@
       "link": "https://agen233.top/posts/b2ce6d03/",
       "author": "御枫林下的小站",
       "avatar": "https://bu.dusays.com/2024/06/12/6669abc539646.jpg"
-    },
-    {
-      "title": "荒野大镖客2：我不常提起他，但我经常想念他",
-      "created": "2024-07-09 06:56",
-      "link": "https://liuyude.com/archives/i-dont-talk-about-him-much-but-i-think-about-him-lot.html",
-      "author": "慧行说",
-      "avatar": "https://liuyude.com/logo"
     },
     {
       "title": "琐议戏曲艺术流变中的舞蹈遗存状态",
@@ -1198,13 +1198,6 @@
       "avatar": "https://www.imalun.com/images/avatar.jpg?v=1"
     },
     {
-      "title": "textarea标签换行符以br存入数据库 ，br转 textArea换行符",
-      "created": "2023-11-28 11:19",
-      "link": "https://illlli.com/posts/textArea%E6%8D%A2%E8%A1%8C%E7%AC%A6%E8%BD%AC.html",
-      "author": "虹色轨迹🌠",
-      "avatar": "https://illlli.com/assets/avatar.webp"
-    },
-    {
       "title": "考场可用的简易vim配置",
       "created": "2023-11-12 22:11",
       "link": "https://blog.rickyxrc.cc/posts/1c0cfd13/",
@@ -1224,27 +1217,6 @@
       "link": "https://akilar.top/posts/eee5afe4/",
       "author": "Akilarの糖果屋",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-    },
-    {
-      "title": "安装 MySQL 服务时提示 Install/Remove of the Service Denied",
-      "created": "2023-09-05 08:18",
-      "link": "https://illlli.com/posts/InstallRemove.html",
-      "author": "虹色轨迹🌠",
-      "avatar": "https://illlli.com/assets/avatar.webp"
-    },
-    {
-      "title": "JDBC",
-      "created": "2023-09-05 08:18",
-      "link": "https://illlli.com/posts/JDBC.html",
-      "author": "虹色轨迹🌠",
-      "avatar": "https://illlli.com/assets/avatar.webp"
-    },
-    {
-      "title": "MyBatisPlus",
-      "created": "2023-09-05 08:18",
-      "link": "https://illlli.com/posts/MyBatisPlus.html",
-      "author": "虹色轨迹🌠",
-      "avatar": "https://illlli.com/assets/avatar.webp"
     },
     {
       "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
@@ -1287,13 +1259,6 @@
       "link": "https://b.storyo.cn/archives/srlink",
       "author": "故与南歌",
       "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "Vue3",
-      "created": "2023-06-08 21:19",
-      "link": "https://illlli.com/posts/vue3.html",
-      "author": "虹色轨迹🌠",
-      "avatar": "https://illlli.com/assets/avatar.webp"
     },
     {
       "title": "Linux系统移植篇(三)——根文件系统的构建",
