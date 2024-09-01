@@ -4,7 +4,7 @@
     "active_num": 47,
     "error_num": 20,
     "article_num": 196,
-    "last_updated_time": "2024-09-01 02:13:53"
+    "last_updated_time": "2024-09-01 09:00:19"
   },
   "article_data": [
     {
@@ -393,25 +393,11 @@
       "avatar": "https://www.hsuyeung.com/img/avatar.jpg"
     },
     {
-      "title": "从零开始的 C# 学习笔记 ①: Microsoft Learn",
-      "created": "2024-08-04 21:52",
-      "link": "https://aiccrop.com/post/2024/csharp-notes-from-scratch-1-microsoft-learn/",
-      "author": "CircleCrop Blog",
-      "avatar": "https://aiccrop.com/api/head"
-    },
-    {
       "title": "并行操作导致获取数据库连接超时",
       "created": "2024-08-04 20:40",
       "link": "https://www.hsuyeung.com/article/concurrent-database-connection-timeout",
       "author": "Hsu Yeung 的博客",
       "avatar": "https://www.hsuyeung.com/img/avatar.jpg"
-    },
-    {
-      "title": "蔚蓝档案/抽卡：久违的时来运转",
-      "created": "2024-08-04 19:23",
-      "link": "https://aiccrop.com/post/2024/blue-archive-gacha-luck-turns-around/",
-      "author": "CircleCrop Blog",
-      "avatar": "https://aiccrop.com/api/head"
     },
     {
       "title": "【短文】-彼时故城皆繁华",
@@ -694,13 +680,6 @@
       "avatar": "https://iicats.com/favicon.ico"
     },
     {
-      "title": "脱单了～",
-      "created": "2024-07-02 02:43",
-      "link": "https://aiccrop.com/post/2024/fall-in-love/",
-      "author": "CircleCrop Blog",
-      "avatar": "https://aiccrop.com/api/head"
-    },
-    {
       "title": "实习日",
       "created": "2024-06-26 15:20",
       "link": "https://champhoon.xyz/log/internship/",
@@ -729,13 +708,6 @@
       "avatar": "https://www.lyszm.com/img/avatar.jpg"
     },
     {
-      "title": "【音游痴】通宵出勤后，读谱=省电模式",
-      "created": "2024-06-21 04:12",
-      "link": "https://aiccrop.com/post/2024/music-game-enthusiast-all-night-music-reading-like-energy-saving-mode/",
-      "author": "CircleCrop Blog",
-      "avatar": "https://aiccrop.com/api/head"
-    },
-    {
       "title": "Color Protein Model by Sequence Conservation with ConSurf",
       "created": "2024-06-20 19:35",
       "link": "https://xxu.do/posts/structure/Color-the-model-by-sequence-conservation-with-ConSurf",
@@ -748,13 +720,6 @@
       "link": "https://mnchen.cn/posts/1008.html",
       "author": "前尘小筑",
       "avatar": "https://image.mnchen.cn/2023/12/mnochen.jpg"
-    },
-    {
-      "title": "【Cos】山吹兔美 – 星之少女与六华的姐妹",
-      "created": "2024-06-20 02:39",
-      "link": "https://aiccrop.com/post/2024/yamabuki-usami-cos-ensemble/",
-      "author": "CircleCrop Blog",
-      "avatar": "https://aiccrop.com/api/head"
     },
     {
       "title": "hexo部署到vercel和服务器多线路解析",
@@ -1268,6 +1233,13 @@
       "avatar": "https://www.imalun.com/images/avatar.jpg?v=1"
     },
     {
+      "title": "textarea标签换行符以br存入数据库 ，br转 textArea换行符",
+      "created": "2023-11-28 11:19",
+      "link": "https://illlli.com/posts/textArea%E6%8D%A2%E8%A1%8C%E7%AC%A6%E8%BD%AC.html",
+      "author": "虹色轨迹🌠",
+      "avatar": "https://illlli.com/assets/avatar.webp"
+    },
+    {
       "title": "考场可用的简易vim配置",
       "created": "2023-11-12 22:11",
       "link": "https://blog.rickyxrc.cc/posts/1c0cfd13/",
@@ -1287,6 +1259,27 @@
       "link": "https://akilar.top/posts/eee5afe4/",
       "author": "Akilarの糖果屋",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
+      "title": "安装 MySQL 服务时提示 Install/Remove of the Service Denied",
+      "created": "2023-09-05 08:18",
+      "link": "https://illlli.com/posts/InstallRemove.html",
+      "author": "虹色轨迹🌠",
+      "avatar": "https://illlli.com/assets/avatar.webp"
+    },
+    {
+      "title": "JDBC",
+      "created": "2023-09-05 08:18",
+      "link": "https://illlli.com/posts/JDBC.html",
+      "author": "虹色轨迹🌠",
+      "avatar": "https://illlli.com/assets/avatar.webp"
+    },
+    {
+      "title": "MyBatisPlus",
+      "created": "2023-09-05 08:18",
+      "link": "https://illlli.com/posts/MyBatisPlus.html",
+      "author": "虹色轨迹🌠",
+      "avatar": "https://illlli.com/assets/avatar.webp"
     },
     {
       "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
@@ -1329,6 +1322,13 @@
       "link": "https://b.storyo.cn/archives/srlink",
       "author": "故与南歌",
       "avatar": "https://b.storyo.cn/upload/logo.png"
+    },
+    {
+      "title": "Vue3",
+      "created": "2023-06-08 21:19",
+      "link": "https://illlli.com/posts/vue3.html",
+      "author": "虹色轨迹🌠",
+      "avatar": "https://illlli.com/assets/avatar.webp"
     },
     {
       "title": "Linux系统移植篇(三)——根文件系统的构建",
