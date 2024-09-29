@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 50,
-    "error_num": 20,
-    "article_num": 207,
-    "last_updated_time": "2024-09-29 14:15:53"
+    "active_num": 49,
+    "error_num": 21,
+    "article_num": 202,
+    "last_updated_time": "2024-09-29 20:20:58"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://blog.zhheo.com/p/a28f.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "光束平差法（Bundle Adjustment）",
+      "created": "2024-09-29 09:15",
+      "link": "https://www.zywvvd.com/notes/3d/bundle-adjustment/bundle-adjustment/",
+      "author": "又见苍岚",
+      "avatar": "https://www.zywvvd.com/image/avatar.png"
     },
     {
       "title": "实习结束，我获得了优秀个人奖",
@@ -67,13 +74,6 @@
       "title": "曲率",
       "created": "2024-09-25 15:28",
       "link": "https://www.zywvvd.com/notes/study/math/curvature-radius/curvature-radius/",
-      "author": "又见苍岚",
-      "avatar": "https://www.zywvvd.com/image/avatar.png"
-    },
-    {
-      "title": "python 实现拉格朗日乘子法",
-      "created": "2024-09-25 15:12",
-      "link": "https://www.zywvvd.com/notes/coding/python/python-lagrange/python-lagrange/",
       "author": "又见苍岚",
       "avatar": "https://www.zywvvd.com/image/avatar.png"
     },
@@ -1219,27 +1219,6 @@
       "avatar": "https://pic.imgdb.cn/item/63e38acc4757feff3372eb7e.webp"
     },
     {
-      "title": "杂谈：我与高木同学的故事",
-      "created": "2024-01-02 16:14",
-      "link": "https://tkgso.fun/posts/takagi/takagi.html",
-      "author": "Mikuの次行星",
-      "avatar": "https://cravatar.cn/avatar/ba76faef3cc8252bd0433b3515124389?s=512"
-    },
-    {
-      "title": "新年初，幸福始",
-      "created": "2023-12-31 17:29",
-      "link": "https://tkgso.fun/notes/11",
-      "author": "Mikuの次行星",
-      "avatar": "https://cravatar.cn/avatar/ba76faef3cc8252bd0433b3515124389?s=512"
-    },
-    {
-      "title": "今天有点难受╯﹏╰",
-      "created": "2023-12-29 16:12",
-      "link": "https://tkgso.fun/notes/9",
-      "author": "Mikuの次行星",
-      "avatar": "https://cravatar.cn/avatar/ba76faef3cc8252bd0433b3515124389?s=512"
-    },
-    {
       "title": "战双私服 升格网络 AscNet 教程",
       "created": "2023-12-28 23:16",
       "link": "https://blog.tomys.top/2023-12/pgr-ascnet_server/",
@@ -1252,20 +1231,6 @@
       "link": "https://irithys.com/obsidian-livesync-2/",
       "author": "山茶花舍",
       "avatar": "https://pic.imgdb.cn/item/63e38acc4757feff3372eb7e.webp"
-    },
-    {
-      "title": "CF Page可以免费优选",
-      "created": "2023-12-28 15:47",
-      "link": "https://tkgso.fun/notes/7",
-      "author": "Mikuの次行星",
-      "avatar": "https://cravatar.cn/avatar/ba76faef3cc8252bd0433b3515124389?s=512"
-    },
-    {
-      "title": "域名开启DNSSEC",
-      "created": "2023-12-28 07:45",
-      "link": "https://tkgso.fun/notes/6",
-      "author": "Mikuの次行星",
-      "avatar": "https://cravatar.cn/avatar/ba76faef3cc8252bd0433b3515124389?s=512"
     },
     {
       "title": "起了个好头，但挫折蛮多 | 师走记",
