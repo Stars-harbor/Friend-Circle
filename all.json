@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 71,
-    "active_num": 50,
-    "error_num": 21,
-    "article_num": 207,
-    "last_updated_time": "2024-10-13 14:16:30"
+    "active_num": 51,
+    "error_num": 20,
+    "article_num": 212,
+    "last_updated_time": "2024-10-13 20:20:47"
   },
   "article_data": [
     {
@@ -379,7 +379,7 @@
       "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
     },
     {
-      "title": "风一样自由 | 豪爵 USR125 记",
+      "title": "风、诗歌和远方 | 豪爵 USR125 记",
       "created": "2024-09-17 14:49",
       "link": "https://agen233.top/posts/670529b6/",
       "author": "枫林·浅羽·云梦",
@@ -1303,6 +1303,13 @@
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
+      "title": "textarea标签换行符以br存入数据库 ，br转 textArea换行符",
+      "created": "2023-11-28 11:19",
+      "link": "https://illlli.com/posts/textArea%E6%8D%A2%E8%A1%8C%E7%AC%A6%E8%BD%AC.html",
+      "author": "虹色轨迹🌠",
+      "avatar": "https://illlli.com/assets/avatar.webp"
+    },
+    {
       "title": "考场可用的简易vim配置",
       "created": "2023-11-12 22:11",
       "link": "https://blog.rickyxrc.cc/posts/1c0cfd13/",
@@ -1329,6 +1336,27 @@
       "link": "https://akilar.top/posts/eee5afe4/",
       "author": "Akilarの糖果屋",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
+      "title": "安装 MySQL 服务时提示 Install/Remove of the Service Denied",
+      "created": "2023-09-05 08:18",
+      "link": "https://illlli.com/posts/InstallRemove.html",
+      "author": "虹色轨迹🌠",
+      "avatar": "https://illlli.com/assets/avatar.webp"
+    },
+    {
+      "title": "JDBC",
+      "created": "2023-09-05 08:18",
+      "link": "https://illlli.com/posts/JDBC.html",
+      "author": "虹色轨迹🌠",
+      "avatar": "https://illlli.com/assets/avatar.webp"
+    },
+    {
+      "title": "MyBatisPlus",
+      "created": "2023-09-05 08:18",
+      "link": "https://illlli.com/posts/MyBatisPlus.html",
+      "author": "虹色轨迹🌠",
+      "avatar": "https://illlli.com/assets/avatar.webp"
     },
     {
       "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
@@ -1378,6 +1406,13 @@
       "link": "https://b.storyo.cn/archives/srlink",
       "author": "故与南歌",
       "avatar": "https://b.storyo.cn/upload/logo.png"
+    },
+    {
+      "title": "Vue3",
+      "created": "2023-06-08 21:19",
+      "link": "https://illlli.com/posts/vue3.html",
+      "author": "虹色轨迹🌠",
+      "avatar": "https://illlli.com/assets/avatar.webp"
     },
     {
       "title": "Linux系统移植篇(三)——根文件系统的构建",
