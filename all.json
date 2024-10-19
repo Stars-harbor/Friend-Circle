@@ -1,12 +1,19 @@
 {
   "statistical_data": {
-    "friends_num": 72,
-    "active_num": 52,
+    "friends_num": 70,
+    "active_num": 50,
     "error_num": 20,
-    "article_num": 217,
-    "last_updated_time": "2024-10-19 14:15:57"
+    "article_num": 207,
+    "last_updated_time": "2024-10-19 20:20:16"
   },
   "article_data": [
+    {
+      "title": "给你的博客底部添加一排宠物",
+      "created": "2024-10-19 14:08",
+      "link": "https://blog.qjqq.cn/posts/f69c.html",
+      "author": "青桔气球",
+      "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
+    },
     {
       "title": "Solitude建站备忘",
       "created": "2024-10-18 20:23",
@@ -456,13 +463,6 @@
       "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
     },
     {
-      "title": "Nextjs博客重构记录",
-      "created": "2024-09-13 09:15",
-      "link": "https://blog.ciraos.top/p/bee08b52/",
-      "author": "葱苓sama",
-      "avatar": "https://fastly.jsdelivr.net/gh/ciraos/ciraos-static@main/img/avatar1.avif"
-    },
-    {
       "title": "【说说】沉迷游戏",
       "created": "2024-09-12 06:33",
       "link": "https://www.dmxvx.cc/1088.html",
@@ -517,13 +517,6 @@
       "link": "https://xxu.do/notes/131",
       "author": "Jayden",
       "avatar": "https://github.com/Jaaayden.png"
-    },
-    {
-      "title": "页面模版",
-      "created": "2024-09-06 19:56",
-      "link": "https://blog.qjqq.cn/posts/53e4.html",
-      "author": "青桔气球",
-      "avatar": "https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar"
     },
     {
       "title": "🎐米游社绑定设备信息帮助",
@@ -953,13 +946,6 @@
       "avatar": "https://public-cdn.tomys.top/head.png"
     },
     {
-      "title": "CPrimerPlus-第三章-数据和C[持续更新中]",
-      "created": "2024-06-09 13:20",
-      "link": "https://blog.ciraos.top/p/ac068839/",
-      "author": "葱苓sama",
-      "avatar": "https://fastly.jsdelivr.net/gh/ciraos/ciraos-static@main/img/avatar1.avif"
-    },
-    {
       "title": "WordPress图片文章列表栏目",
       "created": "2024-06-08 17:06",
       "link": "https://www.46x.cn/368.html",
@@ -1014,13 +1000,6 @@
       "link": "https://blog.tomys.top/2024-05/giffgaff/",
       "author": "TomyJan",
       "avatar": "https://public-cdn.tomys.top/head.png"
-    },
-    {
-      "title": "给你的hexo博客配上swpp",
-      "created": "2024-04-30 21:54",
-      "link": "https://blog.ciraos.top/p/764aa671/",
-      "author": "葱苓sama",
-      "avatar": "https://fastly.jsdelivr.net/gh/ciraos/ciraos-static@main/img/avatar1.avif"
     },
     {
       "title": "《非暴力沟通》读书笔记",
@@ -1331,25 +1310,11 @@
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
-      "title": "textarea标签换行符以br存入数据库 ，br转 textArea换行符",
-      "created": "2023-11-28 11:19",
-      "link": "https://illlli.com/posts/textArea%E6%8D%A2%E8%A1%8C%E7%AC%A6%E8%BD%AC.html",
-      "author": "虹色轨迹🌠",
-      "avatar": "https://illlli.com/assets/avatar.webp"
-    },
-    {
       "title": "考场可用的简易vim配置",
       "created": "2023-11-12 22:11",
       "link": "https://blog.rickyxrc.cc/posts/1c0cfd13/",
       "author": "Rickyxrc",
       "avatar": "https://cdn.rickyxrc.cc/head/512.png"
-    },
-    {
-      "title": "给你的博客加上git提交日历",
-      "created": "2023-11-03 09:14",
-      "link": "https://blog.ciraos.top/p/e3901a78/",
-      "author": "葱苓sama",
-      "avatar": "https://fastly.jsdelivr.net/gh/ciraos/ciraos-static@main/img/avatar1.avif"
     },
     {
       "title": "《河边的错误》，打一开始就是个错误",
@@ -1371,27 +1336,6 @@
       "link": "https://akilar.top/posts/eee5afe4/",
       "author": "Akilarの糖果屋",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-    },
-    {
-      "title": "安装 MySQL 服务时提示 Install/Remove of the Service Denied",
-      "created": "2023-09-05 08:18",
-      "link": "https://illlli.com/posts/InstallRemove.html",
-      "author": "虹色轨迹🌠",
-      "avatar": "https://illlli.com/assets/avatar.webp"
-    },
-    {
-      "title": "JDBC",
-      "created": "2023-09-05 08:18",
-      "link": "https://illlli.com/posts/JDBC.html",
-      "author": "虹色轨迹🌠",
-      "avatar": "https://illlli.com/assets/avatar.webp"
-    },
-    {
-      "title": "MyBatisPlus",
-      "created": "2023-09-05 08:18",
-      "link": "https://illlli.com/posts/MyBatisPlus.html",
-      "author": "虹色轨迹🌠",
-      "avatar": "https://illlli.com/assets/avatar.webp"
     },
     {
       "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
@@ -1429,25 +1373,11 @@
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
-      "title": "hexo备份",
-      "created": "2023-07-02 13:04",
-      "link": "https://blog.ciraos.top/p/d4b6f22c/",
-      "author": "葱苓sama",
-      "avatar": "https://fastly.jsdelivr.net/gh/ciraos/ciraos-static@main/img/avatar1.avif"
-    },
-    {
       "title": "🍂崩坏：星穹铁道抽卡链接获取教程",
       "created": "2023-06-11 11:52",
       "link": "https://b.storyo.cn/archives/srlink",
       "author": "故与南歌",
       "avatar": "https://b.storyo.cn/upload/logo.png"
-    },
-    {
-      "title": "Vue3",
-      "created": "2023-06-08 21:19",
-      "link": "https://illlli.com/posts/vue3.html",
-      "author": "虹色轨迹🌠",
-      "avatar": "https://illlli.com/assets/avatar.webp"
     },
     {
       "title": "Linux系统移植篇(三)——根文件系统的构建",
